@@ -1,6 +1,6 @@
 package folder1.folder2;
 
-class ClassB {
+class ClassC {
     public void QMethod(String args[]) {
         int x = 7;
         System.out.println("Hello");
